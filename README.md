@@ -1,4 +1,4 @@
-## 📁 Proje Mimarisi ve Dosya Yapısı
+##  Proje Mimarisi ve Dosya Yapısı
 
 Proje, "Yazılım Mühendisliği" prensipleri ve "Katmanlı Mimari" yaklaşımına uygun olarak, her biri belirli bir sorumluluğu üstlenen sınıflardan oluşmaktadır.
 
@@ -26,7 +26,7 @@ LaptopKiralamaSistemi/
 └── README.md                   # Bu Dosya
 ```
 
-## ✨ Temel Özellikler
+##  Temel Özellikler
 
 ### 1. Modüler Tasarım ve Katmanlı Mimari (OOP Principles)
 
@@ -51,7 +51,7 @@ Spagetti kod yapısından kaçınılarak, her sınıfın tek bir sorumluluğu ü
 - **Veri Tutarlılığı:** Tüm dosya işlemleri atomik olarak gerçekleştirilir
 - **Hata Yönetimi:** `try-catch` blokları ile sistem çökmeleri önlenir
 
-## 🚀 Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için:
 
@@ -76,14 +76,14 @@ java src/Main
 - `src/Main.java` dosyasını ana sınıf olarak belirleyin
 - Projeyi çalıştırın
 
-## 📋 Sistem Gereksinimleri
+##  Sistem Gereksinimleri
 
 - **Java JDK 8 veya üzeri** (Java SE uyumlu)
 - **Minimum 512 MB RAM**
 - **100 MB boş disk alanı**
 - **Windows / Linux / macOS işletim sistemi**
 
-## 🎮 Kullanım Kılavuzu
+##  Kullanım Kılavuzu
 
 ### Ana Menü Yapısı
 ```
@@ -127,13 +127,13 @@ ID,MusteriID,LaptopID,Gun,Tutar,Durum
 1,1,1,3,450.0,AKTIF
 ```
 
-## 📊 Teknik Özellikler
+##  Teknik Özellikler
 
 ### Tasarım Desenleri
-- ✅ **Singleton Pattern:** `FileManager.java` - Tekil dosya yöneticisi
-- ✅ **DTO Pattern:** Veri transfer nesneleri
-- ✅ **Layered Architecture:** Katmanlı mimari
-- ✅ **Separation of Concerns:** Sorumluluk ayrımı
+-  **Singleton Pattern:** `FileManager.java` - Tekil dosya yöneticisi
+-  **DTO Pattern:** Veri transfer nesneleri
+-  **Layered Architecture:** Katmanlı mimari
+-  **Separation of Concerns:** Sorumluluk ayrımı
 
 ### Performans Metrikleri
 - **Başlangıç Süresi:** < 3 saniye
@@ -147,7 +147,7 @@ ID,MusteriID,LaptopID,Gun,Tutar,Durum
 - Dosya bozulması durumunda boş liste dönüşü
 - Hata mesajları kullanıcı dostu
 
-## 📄 Proje Dokümantasyonu
+##  Proje Dokümantasyonu
 
 Projenin teknik detayları, analiz ve tasarım süreçleri `docs/` klasöründe sunulmuştur:
 
@@ -155,7 +155,7 @@ Projenin teknik detayları, analiz ve tasarım süreçleri `docs/` klasöründe 
 - **TASARIM_RAPORU.md:** Mimari yapı, sınıf diyagramları ve tasarım kararları
 - **FINAL_RAPORU.md:** Proje sonuçları, test raporları ve değerlendirmeler
 
-## 🛠️ Geliştirme ve Katkı
+##  Geliştirme ve Katkı
 
 ### Geliştirme Ortamı Kurulumu
 ```bash
@@ -178,13 +178,13 @@ git commit -m "Yeni özellik eklendi"
 4. **Çoklu Dil Desteği:** İngilizce arayüz
 5. **Unit Testler:** JUnit test kapsamı
 
-## 👨‍💻 Geliştirici
+##  Geliştiriciler
 
-**[Adınız Soyadınız]** - Yazılım Mühendisliği Öğrencisi/Geliştiricisi
+**[Ferhat Demir, Sabri Kaçar, İdris Şeyhun ]** - Yazılım Mühendisliği Öğrencileri/Geliştirileri
 
 Bu proje **Yazılım Mühendisliği** prensipleri ve **Nesne Yönelimli Programlama** dersi kapsamında geliştirilmiştir.
 
-## 📞 İletişim ve Destek
+##  İletişim ve Destek
 
 - **GitHub:** [ferhatdemir847-star](https://github.com/ferhatdemir847-star)
 - **E-posta:**ferhat.demir847@gmail.com
